@@ -1,0 +1,10 @@
+apiKey = "openAI API Key"
+mysqlIP = "MySQL IP"
+mysqlUser = "MySQL User Name"
+mysqlPassword = "MySQL Password"
+mysqlDatabase = "MySQL Database Name"
+mysqlBackupDatabase = "MySQL Backup Database Name"
+encryptionPasswords = b"enc passwords"
+siteUrl = "web site url"
+apiUrl = "current api url"
+supportedLanguages = ["tr","en"]
